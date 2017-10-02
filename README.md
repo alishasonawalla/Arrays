@@ -2,7 +2,6 @@ Arrays
 ==========
 
 @Author
----------------
 Alisha Sonawalla 
 
 
