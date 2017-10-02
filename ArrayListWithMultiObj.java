@@ -9,8 +9,6 @@
  * @version 04/20/2017
  */
 
-package hw23;
-
 import java.util.ArrayList;
 
 /*
