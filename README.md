@@ -15,6 +15,8 @@ matrixWithoutOOP asks the user for number of rows and columns and then creates a
 
 matrixWithOOP performs the same tasks as matrixWithoutOOP but using Object Oriented Programming. The program creates a matrix class with methods to add a column, reverse a row and transpose a matrix. 
 
+ArrayListWithMultiObj.java stores multiple objects in a java array - circles, matrix, tictactoe (that extends matrix).
+
 Files
 ---
 challenge1.java
@@ -23,4 +25,5 @@ challenge3.java
 challenge4
 matrixWithOOP.java
 matrixWithoutOOP.java
+ArraListWithMultiObj.java
 
